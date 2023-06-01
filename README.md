@@ -80,7 +80,7 @@ source "~/.zsh/spaceship-architecture/spaceship-architecture.plugin.zsh"
 
 ## Usage
 
-After installing, add the following line to your `.zshrc` in order to include Architecture section in the prompt:
+After installing, add the following line to your `.spaceshiprc.zsh` in order to include Architecture section in the prompt:
 
 ```zsh
 spaceship add architecture
