@@ -88,8 +88,6 @@ spaceship add architecture
 
 ## Options
 
-Ember.js section is shown only in directories containing a `ember-cli-build.js` file.
-
 | Variable                 |              Default               | Meaning                                       |
 | :----------------------- | :--------------------------------: | --------------------------------------------- |
 | `SPACESHIP_ARCHITECTURE_SHOW`   |               `true`               | Shows or hides current architecture                      |
