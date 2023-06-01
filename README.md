@@ -12,7 +12,7 @@ You need to source this plugin somewhere in your dotfiles. Here's how to do it w
 Execute this command to clone this repo into Oh-My-Zsh plugin's folder:
 
 ```zsh
-git clone https://github.com/jorge.aranda/spaceship-architecture $ZSH_CUSTOM/plugins/spaceship-architecture
+git clone https://github.com/jorge-aranda/spaceship-architecture $ZSH_CUSTOM/plugins/spaceship-architecture
 ```
 
 Include `spaceship-architecture` in Oh-My-Zsh plugins list:
@@ -69,7 +69,7 @@ If none of the above methods works for you, you can install Spaceship manually.
 
 ```zsh
 mkdir -p "$HOME/.zsh"
-git clone --depth=1 https://github.com/jorge.aranda/spaceship-architecture "$HOME/.zsh/spaceship-architecture"
+git clone --depth=1 https://github.com/jorge-aranda/spaceship-architecture "$HOME/.zsh/spaceship-architecture"
 ```
 
 For initializing prompt system add this to your `.zshrc`:
